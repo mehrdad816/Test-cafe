@@ -1,0 +1,8 @@
+<svg width="900" height="700" viewBox="0 0 900 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="700" fill="#141010"/>
+<rect x="78" y="78" width="744" height="544" rx="28" fill="#241A18"/>
+<rect x="146" y="154" width="608" height="392" rx="24" fill="#332421"/>
+<circle cx="300" cy="340" r="86" fill="#9A6F4A" fill-opacity="0.55"/>
+<circle cx="604" cy="340" r="86" fill="#9A6F4A" fill-opacity="0.35"/>
+<text x="450" y="610" fill="#C89E77" text-anchor="middle" font-size="46" font-family="serif">Cafe Lounge</text>
+</svg>

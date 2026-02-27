@@ -1,0 +1,9 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="500" fill="#161110"/>
+<rect x="56" y="56" width="688" height="388" rx="26" fill="#231A18"/>
+<ellipse cx="400" cy="260" rx="178" ry="56" fill="#0D0A0A" fill-opacity="0.55"/>
+<path d="M284 166C284 139.49 305.49 118 332 118H468C494.51 118 516 139.49 516 166V252C516 320.484 460.484 376 392 376C323.516 376 268 320.484 268 252V166H284Z" fill="#2D1F1A" stroke="#956A49" stroke-width="8"/>
+<path d="M516 198H552C578.51 198 600 219.49 600 246C600 272.51 578.51 294 552 294H522" stroke="#956A49" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="400" cy="170" rx="96" ry="30" fill="#8D603D" fill-opacity="0.65"/>
+<text x="400" y="458" fill="#C8A07A" text-anchor="middle" font-size="40" font-family="serif">Velvet Espresso</text>
+</svg>
