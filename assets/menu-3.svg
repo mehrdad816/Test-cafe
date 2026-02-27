@@ -1,0 +1,9 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="500" fill="#141010"/>
+<rect x="64" y="64" width="672" height="372" rx="26" fill="#241A18"/>
+<rect x="152" y="128" width="496" height="240" rx="28" fill="#352521"/>
+<ellipse cx="400" cy="248" rx="186" ry="88" fill="#1A1311"/>
+<ellipse cx="400" cy="248" rx="138" ry="62" fill="#4C352B"/>
+<ellipse cx="400" cy="248" rx="96" ry="42" fill="#8C6244" fill-opacity="0.66"/>
+<text x="400" y="458" fill="#C8A07A" text-anchor="middle" font-size="40" font-family="serif">Cold Brew Reserve</text>
+</svg>
